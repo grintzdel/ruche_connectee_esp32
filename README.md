@@ -4,4 +4,4 @@ Projet scolaire de classe de terminale. Ruche connectée avec envoie des donnée
 On retrouve des dossiers avec les fichiers de chaque capteurs, du protocol MQTT et de la carte Lora.
 On retrouve également des fichiers comportant tous les capteurs + MQTT et également un fichier avec tous les capteurs + envoie des données avec la carte Lora. 
 
-Pour pouvoir utilisé correctement les codes, il vous faudra utiliser le broker Mosquitto : https://mosquitto.org/
+Pour pouvoir utiliser correctement les codes, il vous faudra utiliser le broker Mosquitto : https://mosquitto.org/
