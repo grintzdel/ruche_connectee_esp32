@@ -1,5 +1,5 @@
 # Ruche connectée à l'aide d'ESP32 et carte Lora
-Réalisé à l'aide [Tom CHAUMETTE](https://github.com/El-Tome)  
+Réalisé avec [Tom CHAUMETTE](https://github.com/El-Tome)  
 Projet scolaire de classe de terminale. Ruche connectée avec envoie des données à l'aide d'une carte Lora.
 
 On retrouve des dossiers avec les fichiers de chaque capteurs, du protocol MQTT et de la carte Lora.
